@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1615699681 source:f:\kpit\embedded\case study\casestudy\fuse.c
+	<avr/io.h>
+
+1615784510 source:f:\kpit\embedded\case study\casestudy\applilcation.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"Application.h"
+	"GPIO.h"
+
+1615782205 f:\kpit\embedded\case study\casestudy\application.h
+
+1615784409 f:\kpit\embedded\case study\casestudy\gpio.h
+	<stdlib.h>
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1615784316 source:f:\kpit\embedded\case study\casestudy\gpio.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<util/delay.h>
+	"GPIO.h"
+	"Application.h"
+
+1615786709 source:f:\kpit\embedded\case study\casestudy\main.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"Application.h"
+	"GPIO.h"
+	"Timer.h"
+	"PWM.h"
+	"ExtInterrupt.h"
+
+1615782206 source:f:\kpit\embedded\case study\casestudy\pwm.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<util/delay.h>
+	"GPIO.h"
+	"Application.h"
+
+1615785569 source:f:\kpit\embedded\case study\casestudy\timer.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<util/delay.h>
+	"GPIO.h"
+	"Application.h"
+
+1615785949 source:f:\kpit\embedded\case study\casestudy\extinterrupt.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<util/delay.h>
+	"GPIO.h"
+	"Application.h"
+
+1615785569 f:\kpit\embedded\case study\casestudy\timer.h
+
+1615782455 f:\kpit\embedded\case study\casestudy\pwm.h
+
+1615789568 f:\kpit\embedded\case study\casestudy\extinterrupt.h
+
+1615810185 source:f:\kpit\embedded\casestudy\extinterrupt.c
+	"ExtInterrupt.h"
+
+1615810024 f:\kpit\embedded\casestudy\gpio.h
+	<stdlib.h>
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1615806343 f:\kpit\embedded\casestudy\application.h
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"PWM.h"
+	"GPIO.h"
+	"Timer.h"
+
+1615699681 source:f:\kpit\embedded\casestudy\fuse.c
+	<avr/io.h>
+
+1615810024 source:f:\kpit\embedded\casestudy\gpio.c
+	"GPIO.h"
+
+1615811477 source:f:\kpit\embedded\casestudy\main.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"OperationDefine.h"
+	"Application.h"
+	"flags.h"
+
+1615806078 f:\kpit\embedded\casestudy\timer.h
+
+1615810103 f:\kpit\embedded\casestudy\pwm.h
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"GPIO.h"
+
+1615810185 f:\kpit\embedded\casestudy\extinterrupt.h
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1615811400 source:f:\kpit\embedded\casestudy\pwm.c
+	"PWM.h"
+
+1615806343 source:f:\kpit\embedded\casestudy\timer.c
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"PWM.h"
+	"Application.h"
+	"GPIO.h"
+	"Timer.h"
+
+1615811241 source:f:\kpit\embedded\casestudy\applilcation.c
+	"Application.h"
+
+1615810905 f:\kpit\embedded\casestudy\operationdefine.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	"GPIO.h"
+	"timer.h"
+
+1615811477 f:\kpit\embedded\casestudy\flags.h
+
